@@ -11,4 +11,4 @@ Youtube Clone using HTMl, CSS, JS, Bootstrap
 .
 .
 
-Go Live - https://github.com/iiamankumar/youtubeclone.github.io
+Go Live - https://iiamankumar.github.io/youtubeclone.github.io/
